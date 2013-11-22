@@ -11,6 +11,8 @@ font: 13px/20px Arial, sans-serif;
 background: #000000;
 background: rgba(0,0,0,.5);
 }
-.ui-image-caption-holder{
+imageCaptionator{
+display:block;
 overflow:hidden;
+position:relative;
 }
